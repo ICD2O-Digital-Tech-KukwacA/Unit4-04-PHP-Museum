@@ -1,4 +1,57 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: MariaG
+ * Modified by: Kukwac
+ * Created on: May 2025
+ * This CSS file defines the style for index.php
+ * ICD2O-Unit4-04-PHP-Museum
 */
+
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+h1 {
+    background-color: #5c49a0;
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+h3 {
+    background-color: #a74095;
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+p {
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+iframe {
+    margin-bottom: 5%;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+
+
+#yellow {
+    background-color: #4c7402;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
