@@ -2,7 +2,7 @@
     // get number from the textfield
     $age = $_POST['userAge'];
     $blank = "";
-    $day = select.options[select.selectedIndex].value;
+    // $day assignment removed: JavaScript syntax is not valid in PHP
     if ($age < 5) {
         echo 'You are old enough to watch R rated movies.';
     }
